@@ -3,10 +3,11 @@ simple program to import data to cloud firestore.
 
 note: input to this program is a csv file.
 
-usage:
+# usage
 * run npm install all the packages.
 * then run node app.js to run the program.
 
+# requirements
 * the program will ask for all the necessary details like: 
     * firebase service account private key pair location.
     * data (type: csv) location.
